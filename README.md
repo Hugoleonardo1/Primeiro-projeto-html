@@ -9,6 +9,7 @@
 
 * Feito isso, clique em settings e vá no "Default branch", aparecerá "None" para vocês, mas mude para main ou master e volte.
 * Clique no "simbolo de confere" e vá no deploy em "details", assim clique em "complete job" e clique no seu link/site e pronto.
+ https://hugoleonardo1.github.io/Primeiro-projeto-html/
 
 
 
